@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Toasty06
 - 👀 I’m interested in Programming, Gaming, ...
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning Python and C
 
 <!---
 Toasty06/Toasty06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
