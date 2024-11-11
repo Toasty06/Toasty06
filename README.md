@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Toasty06
 - 👀 I’m interested in Programming, Gaming, ...
+- 💻 Computer Science Student
 - 🌱 I’m currently learning Python and C
 
 <!---
